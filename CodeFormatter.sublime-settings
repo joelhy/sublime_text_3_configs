@@ -1,0 +1,8 @@
+{
+    "codeformatter_js_options":
+    {
+        "preserve_newlines": true, // whether existing line breaks should be preserved,
+        "max_preserve_newlines": 3, // maximum number of line breaks to be preserved in one chunk
+        "jslint_happy": true // if true, then jslint-stricter mode is enforced. Example function () vs function()
+    }
+}

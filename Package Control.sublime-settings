@@ -1,0 +1,36 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Codecs33",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"GoSublime",
+		"ImprovedSQL",
+		"jQuery",
+		"JsFormat",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Package Control",
+		"PackageResourceViewer",
+		"Pandown",
+		"Placeholders",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Theme - Soda",
+		"Zephir"
+	]
+}

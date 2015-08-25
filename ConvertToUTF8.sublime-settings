@@ -1,0 +1,8 @@
+{
+    // supported encoding list, name & code in pair
+    "encoding_list" : [
+        ["Chinese Simplified (GBK)", "GBK"],
+        ["UTF-8", "UTF-8"]
+    ],
+    "default_encoding_on_create" : "GBK"
+}

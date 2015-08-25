@@ -1,0 +1,23 @@
+{
+    "extensions":
+    [
+        "md",
+        "mdown"
+    ],
+
+    "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+
+    "auto_match_enabled": true,
+
+    // Layout
+    "draw_centered": false,
+    "word_wrap": true,
+    "wrap_width": 120,
+    "rulers": [80, 120],
+
+    // Line
+    "line_numbers": true,
+    "highlight_line": true,
+    // Caret
+    "caret_style": "solid",   // "wide" is deprecated starting with ST Build 3057.
+}
