@@ -8,9 +8,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Markdown",
+		"AdvancedNewFile",
 		"jQuery",
-		"AdvancedNewFile"
+		"Markdown"
 	],
 	"index_exclude_patterns":
 	[
